@@ -30,7 +30,7 @@ libraryDependencies += "com.fcb" % "fedexcrossborder-sdk-java" % "1.0"
 ```
 
 ### Manual
-Download Jar file from ... and put it in your classpath.
+Download `.jar` file from ... and put it in your classpath.
 
 #### Dependencies
 * io.github.openfeign **feign-core** 9.5.0
